@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+}
+table,th,td{
+	border:5px solid black;
+}
+td{
+	text-align: center;
+	background-color: blue;
+	padding: 10px;
+	height: 100px;
+	width: 100px;
+}
+span{
+	display: none;
+	font-size: 20px !important;
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+}
+span#time{
+	display: block;
+	float: left;
+	padding-left: 20px;
+}
